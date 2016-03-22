@@ -1,0 +1,19 @@
+{
+  "name": "howto-webrtc2images",
+  "version": "1.0.0",
+  "description": "How to use Webrtc2Images package",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omiguelperz/howto-webrtc2images.git"
+  },
+  "author": "Oscar Pérez <oscarperez0196@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omiguelperz/howto-webrtc2images/issues"
+  },
+  "homepage": "https://github.com/omiguelperz/howto-webrtc2images#readme"
+}
