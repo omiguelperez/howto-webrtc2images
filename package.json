@@ -4,7 +4,7 @@
   "description": "How to use Webrtc2Images package",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/omiguelperz/howto-webrtc2images/issues"
   },
-  "homepage": "https://github.com/omiguelperz/howto-webrtc2images#readme"
+  "homepage": "https://github.com/omiguelperz/howto-webrtc2images#readme",
 }
