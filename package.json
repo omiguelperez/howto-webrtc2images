@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build-js": "browserify client/app.js -o public/app.js"
   },
   "repository": {
     "type": "git",
@@ -16,4 +17,10 @@
     "url": "https://github.com/omiguelperz/howto-webrtc2images/issues"
   },
   "homepage": "https://github.com/omiguelperz/howto-webrtc2images#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0"
+  },
+  "dependencies": {
+    "webrtc2images": "^1.4.4"
+  }
 }
